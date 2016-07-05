@@ -36,7 +36,7 @@ while Done==False:
 	NOG+=1
 	if Guess == Number:
 		print("Guess %s: %s" % (NOG, Guess))
-		print("Win")
+		print("Won in %s guesses"% NOG)
 		Done=True
 	elif Guess > Number:
 		Max=Guess-1
