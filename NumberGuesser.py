@@ -1,4 +1,5 @@
 ## designed to be run in console and not idle
+## Andrew Mackay
 #########################################################################
 import random, os, time #Imports random, os and time modules. random  is used to generate code, os to clear console and time to add pauses.
 #any variable starting with random. or os. or time. or self. can't have AM added before them as it will prevent the code from functioning
